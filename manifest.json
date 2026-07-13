@@ -1,0 +1,12 @@
+{
+  "name": "夏休み自習室 開放カレンダー",
+  "short_name": "自習室",
+  "display": "standalone",
+  "background_color": "#134E6F",
+  "theme_color": "#134E6F",
+  "start_url": "./app.html",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
